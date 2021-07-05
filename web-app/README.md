@@ -34,7 +34,6 @@ $ java -jar build/libs/web-app-0.0.1-SNAPSHOT.jar
 web-app
 ├── src
 │   ├── main.java.com.example.webapp
-│   │     ├── config
 │   │     ├── entity
 │   │     ├── repo                           
 │   │     ├── service                       

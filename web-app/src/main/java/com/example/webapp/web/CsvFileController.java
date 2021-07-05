@@ -9,7 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 @Slf4j
 @RestController
-@RequestMapping("/file")
+@RequestMapping("file")
 public class CsvFileController {
 
     @Autowired
