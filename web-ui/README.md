@@ -30,7 +30,7 @@ web-ui
 │   ├── assets
 │   │     └── scss
 │   │         ├── coreui
-    │         └── style.scss
+│   │         └── style.scss
 │   ├── compoments            
 │   ├── plugins                
 │   │     ├── coreui
