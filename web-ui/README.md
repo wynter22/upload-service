@@ -2,6 +2,13 @@
 
 > 카카오페이 웹(풀스택) 개발 과제 - FrontEnd
 
+## Run in Development
+
+```
+$ yarn install
+$ yarn serve
+```
+
 ## Dependencies
 
 | No  |  Dependency    | Version  |
@@ -12,13 +19,6 @@
 |  4  | vue-sse        | 2.2.0    |
 |  5  | vue2-dropzone  | 3.6.0    |
 |  6  | @coreui/coreui | 3.4.0    |
-
-## Run in Development
-
-```
-$ yarn install
-$ yarn serve
-```
 
 ## Folder Structure
 
