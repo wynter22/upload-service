@@ -1,7 +1,3 @@
-# kakaopay (web-ui)
-
-> 카카오페이 웹(풀스택) 개발 과제 - FrontEnd
-
 ## Run in Development
 
 ```
